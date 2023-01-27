@@ -1,0 +1,20 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+} */
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    135deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(119, 10, 169, 1) 100%
+  );
+}
+.photu {
+  position: absolute;
+  top: 14rem;
+  width: 150px;
+  height: 150px;
+}
